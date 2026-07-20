@@ -15,17 +15,18 @@ I'm transitioning from a background in engineering, music production, and 3D art
 
 ### 🔭 Currently Working On
 
-- **Retail Inventory Sync Engine** — a tool that syncs inventory between **Square** and **Shopify** for a small gift and craft shop, built as part of a 6‑month software development roadmap.
+- **[Dr. Pod's Apothecary & Sundries](https://github.com/jjohnson360/dr-pods-website-v2)** — storefront prototype for a curated gift and craft shop in Salisbury, NC. HTML/CSS/JS, dynamic product variants, cart persistence. [Live preview →](https://jjohnson360.github.io/dr-pods-website-v2/)
+- **Retail Inventory Sync Engine** — a tool that syncs inventory between **Square** and **Shopify** for the same shop, built as part of a 6‑month software development roadmap.
 - **Victorian Apothecary 3D Environment** — a Unity-ready, procedurally generated apothecary shop scene, built entirely from custom **Blender Python (`bpy`)** scripts (no external textures, real-world scale, game-ready topology).
 - **Stylized 3D Avatar Pipeline** — modular, reusable `bpy` scripts that procedurally construct a cartoon-style character avatar.
-- **ff360_music** — brand identity and web presence for my music production project.
+- **[ff360_music](https://github.com/jjohnson360/ff360-music-website)** — Next.js website and brand identity for my music production project, integrating 3D asset work into the front end. [Live site →](https://ff360-music-website.vercel.app/)
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages:** Python · C++ · JavaScript (learning) · SQL
-**3D & Game Dev:** Blender (`bpy` scripting), Unity, procedural/parametric asset generation
+**Languages:** Python · C++ · C# · JavaScript (learning) · SQL
+**3D & Game Dev:** Blender (`bpy` scripting), Unity (C# scripting), procedural/parametric asset generation
 **Web & Tools:** HTML/CSS · Git & GitHub · GitHub Projects · REST APIs (Square, Shopify)
 **Workflow:** AI-assisted development, structured prompt engineering, agentic coding tools
 
@@ -50,7 +51,7 @@ Right now I'm most interested in **workflow automation** and **procedural conten
 
 ### 📫 Let's Connect
 
-- **Location:** Conway, AR
+- **Location:** Salisbury, NC
 - **GitHub:** you're here!
-- **Portfolio / ff360_music:** *(add link)*
+- **ff360_music:** https://ff360-music-website.vercel.app/
 - **LinkedIn:** *(add link)*
