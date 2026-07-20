@@ -51,7 +51,7 @@ Right now I'm most interested in **workflow automation** and **procedural conten
 
 ### 📫 Let's Connect
 
-- **Location:** Salisbury, NC
+- **Location:** Conway, AR
 - **GitHub:** you're here!
 - **ff360_music:** https://ff360-music-website.vercel.app/
 - **LinkedIn:** *(add link)*
