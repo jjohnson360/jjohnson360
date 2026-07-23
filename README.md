@@ -19,7 +19,7 @@ I'm transitioning from a background in engineering, music production, and 3D art
 - **Retail Inventory Sync Engine** — a tool that syncs inventory between **Square** and **Shopify** for the same shop, built as part of a 6‑month software development roadmap.
 - **Victorian Apothecary 3D Environment** — a Unity-ready, procedurally generated apothecary shop scene, built entirely from custom **Blender Python (`bpy`)** scripts (no external textures, real-world scale, game-ready topology).
 - **Stylized 3D Avatar Pipeline** — modular, reusable `bpy` scripts that procedurally construct a cartoon-style character avatar.
-- **[ff360_music](https://github.com/jjohnson360/ff360-music-website)** — Next.js website and brand identity for my music production project, integrating 3D asset work into the front end. [Live site →](https://ff360-music-website.vercel.app/)
+- **[ff360_labs](https://github.com/jjohnson360/ff360_labs_website)** — Creative Technology Studio site built with Next.js 16.2, React 19, and TypeScript, featuring an interactive React Three Fiber/WebGL hero environment and Matter.js physics-based UI. Production-ready with a clean build and full TypeScript/ESLint compliance. [Live site →](https://ff360-labs-website.vercel.app/)
 
 ---
 
@@ -27,7 +27,7 @@ I'm transitioning from a background in engineering, music production, and 3D art
 
 **Languages:** Python · C++ · C# · JavaScript (learning) · SQL
 **3D & Game Dev:** Blender (`bpy` scripting), Unity (C# scripting), procedural/parametric asset generation
-**Web & Tools:** HTML/CSS · Git & GitHub · GitHub Projects · REST APIs (Square, Shopify)
+**Web & Tools:** Next.js · React · TypeScript · Tailwind CSS · Framer Motion · React Three Fiber / Three.js · Matter.js · HTML/CSS · Git & GitHub · GitHub Projects · REST APIs (Square, Shopify)
 **Workflow:** AI-assisted development, structured prompt engineering, agentic coding tools
 
 ---
@@ -45,7 +45,7 @@ Right now I'm most interested in **workflow automation** and **procedural conten
 - [x] Blender procedural asset pipeline (apothecary environment)
 - [ ] Square ↔ Shopify inventory sync engine
 - [ ] Deploy first full-stack project
-- [ ] Portfolio site (ff360_music-aligned branding)
+- [x] Portfolio site (ff360_labs branding)
 
 ---
 
@@ -53,5 +53,5 @@ Right now I'm most interested in **workflow automation** and **procedural conten
 
 - **Location:** Conway, AR
 - **GitHub:** you're here!
-- **ff360_music:** https://ff360-music-website.vercel.app/
+- **ff360_labs:** https://ff360-labs-website.vercel.app/
 - **LinkedIn:** *(add link)*
