@@ -7,6 +7,11 @@
   <img src="https://img.shields.io/badge/-Blender-E87D0D?style=flat&logo=blender&logoColor=white" />
   <img src="https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Three.js-000000?style=flat&logo=three.js&logoColor=white" />
 </p>
 
 I'm transitioning from a background in engineering, music production, and 3D art into AI‑assisted software development — working through a structured, self‑directed roadmap to build a real portfolio and break into the field. I like projects that sit at the intersection of code, sound, and visual craft.
