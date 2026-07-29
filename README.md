@@ -1,4 +1,4 @@
-# Hi, I'm Jackie 👋
+# Hi, I'm Jackie "Fred" Johnson
 
 ### Creative Technologist · Software Developer in Training · Music Producer
 
