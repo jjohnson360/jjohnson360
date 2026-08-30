@@ -29,17 +29,18 @@ I'm transitioning from a background in engineering, music production, and 3D art
 - **ff360 Labs Dynamic EQ** — a dual-mode Max for Live processor combining parametric dynamic EQ with Soothe-style spectral suppression (2048-point FFT default, selectable 1024/4096 modes).
 - **ff360 Labs Drums** — a JUCE VST3/AU drum bus plugin with a fixed signal chain, continuous hard/soft clip morph, single-macro glue compression, and sidechain input.
 - **Synthwave FX Collection** — an eight-plugin JUCE VST3/AU effects suite, built with warm golden-hour visual branding across UI and artwork.
+- **Ecosystem Distortion** — a multi-instance JUCE VST3/AU distortion plugin where separate instances communicate over an inter-instance IPC shared state bus, enabling spectral niche partitioning and slow, bar-level sonic evolution across a mix — with a standalone fallback when the shared bus isn't available.
 - **Dr. Pod's Apothecary Game** — a 3D "Artisan Matchmaker Puzzle" in Unity, built on a ScriptableObject data architecture (customers, products, artisans, workshops, satisfaction rules), tied to the real-world [Dr. Pod's Apothecary & Sundries](https://jjohnson360.github.io/dr-pods-website-v2/) storefront opening in Salisbury, NC.
 - **Personal Finance Tracker** — flagship project of my [6-Month AI Developer Roadmap](https://github.com/jjohnson360/6-Month-AI-Developer-Roadmap). Full-stack app with a FastAPI + PostgreSQL + SQLAlchemy backend, JWT authentication, and a React/Vite/Recharts analytics dashboard. Live and deployed: [Frontend](https://6-month-ai-developer-roadmap.vercel.app/) · [API + Docs](https://six-month-ai-developer-roadmap.onrender.com/docs)
 - **[ff360_labs](https://github.com/jjohnson360/ff360_labs_website)** — Creative Technology Studio site built with Next.js, React Three Fiber, and Matter.js, featuring an interactive WebGL hero and physics-based UI. [Live site →](https://ff360-labs-website.vercel.app/)
 
 <p float="left">
   <img src="./assets/chordflow-ui.png" width="270" alt="ChordFlow plugin UI" />
-  <img src="./assets/dynamic-eq-ui.png" width="270" alt="ff360 Labs Dynamic EQ UI" />
+  <img src="./assets/ecosystem-distortion-ui.png" width="270" alt="Ecosystem Distortion plugin UI" />
   <img src="./assets/apothecary-game.png" width="270" alt="Dr. Pod's Apothecary game scene" />
 </p>
 
-*ChordFlow (hybrid Blender + JUCE UI) · ff360 Labs Dynamic EQ · Dr. Pod's Apothecary game (Unity)*
+*ChordFlow (hybrid Blender + JUCE UI) · Ecosystem Distortion (multi-instance IPC) · Dr. Pod's Apothecary game (Unity)*
 
 ---
 
