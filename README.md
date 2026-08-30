@@ -26,12 +26,12 @@ I'm transitioning from a background in engineering, music production, and 3D art
 ### 🔭 Currently Working On
 
 - **ChordFlow** — a native JUCE VST3/AU MIDI melody & chord generator, with sample-accurate scheduling via `AudioPlayHead`, a seedable PRNG engine, and a hybrid Blender + JUCE UI pipeline (static faceplate rendered via `bpy`, controls drawn in JUCE).
-- **ff360 Labs Dynamic EQ** — a dual-mode Max for Live processor combining parametric dynamic EQ with Soothe-style spectral suppression (2048-point FFT default, selectable 1024/4096 modes).
+- **The Governor of Crunk** — official artist website for a Southern hip-hop act, built to promote a debut album slated for late 2026. [Live site →](https://goc-website-one.vercel.app/)
+- **ff360 Music** — a Next.js-built music/artist portfolio site with embedded audio playback. [Live site →](https://ff360-music-website.vercel.app/)
 - **ff360 Labs Drums** — a JUCE VST3/AU drum bus plugin with a fixed signal chain, continuous hard/soft clip morph, single-macro glue compression, and sidechain input.
 - **Synthwave FX Collection** — an eight-plugin JUCE VST3/AU effects suite, built with warm golden-hour visual branding across UI and artwork.
 - **Ecosystem Distortion** — a multi-instance JUCE VST3/AU distortion plugin where separate instances communicate over an inter-instance IPC shared state bus, enabling spectral niche partitioning and slow, bar-level sonic evolution across a mix — with a standalone fallback when the shared bus isn't available.
 - **Dr. Pod's Apothecary Game** — a 3D "Artisan Matchmaker Puzzle" in Unity, built on a ScriptableObject data architecture (customers, products, artisans, workshops, satisfaction rules), tied to the real-world [Dr. Pod's Apothecary & Sundries](https://jjohnson360.github.io/dr-pods-website-v2/) storefront opening in Salisbury, NC.
-- **Personal Finance Tracker** — flagship project of my [6-Month AI Developer Roadmap](https://github.com/jjohnson360/6-Month-AI-Developer-Roadmap). Full-stack app with a FastAPI + PostgreSQL + SQLAlchemy backend, JWT authentication, and a React/Vite/Recharts analytics dashboard. Live and deployed: [Frontend](https://6-month-ai-developer-roadmap.vercel.app/) · [API + Docs](https://six-month-ai-developer-roadmap.onrender.com/docs)
 - **[ff360_labs](https://github.com/jjohnson360/ff360_labs_website)** — Creative Technology Studio site built with Next.js, React Three Fiber, and Matter.js, featuring an interactive WebGL hero and physics-based UI. [Live site →](https://ff360-labs-website.vercel.app/)
 
 <p float="left">
@@ -72,7 +72,7 @@ Right now I'm most interested in **DSP/audio plugin architecture** and **procedu
 *Tracking [6-Month-AI-Developer-Roadmap](https://github.com/jjohnson360/6-Month-AI-Developer-Roadmap)*
 
 - [x] **Month 1** — Python Fundamentals & CLI Tools
-- [x] **Month 2** — Python & API Foundations · Full-Stack Engineering (Personal Finance Tracker, deployed)
+- [x] **Month 2** — Python & API Foundations · Full-Stack Engineering ([Personal Finance Tracker](https://6-month-ai-developer-roadmap.vercel.app/), deployed — [API docs](https://six-month-ai-developer-roadmap.onrender.com/docs))
 - [ ] **Month 3** — AI, Machine Learning & Data Science Foundations *(up next)*
 - [ ] **Month 4** — LLMs, Prompt Engineering & AI Agents
 - [ ] **Month 5** — Cloud Architecture, MLOps & Infrastructure
