@@ -33,6 +33,14 @@ I'm transitioning from a background in engineering, music production, and 3D art
 - **Personal Finance Tracker** — flagship project of my [6-Month AI Developer Roadmap](https://github.com/jjohnson360/6-Month-AI-Developer-Roadmap). Full-stack app with a FastAPI + PostgreSQL + SQLAlchemy backend, JWT authentication, and a React/Vite/Recharts analytics dashboard. Live and deployed: [Frontend](https://6-month-ai-developer-roadmap.vercel.app/) · [API + Docs](https://six-month-ai-developer-roadmap.onrender.com/docs)
 - **[ff360_labs](https://github.com/jjohnson360/ff360_labs_website)** — Creative Technology Studio site built with Next.js, React Three Fiber, and Matter.js, featuring an interactive WebGL hero and physics-based UI. [Live site →](https://ff360-labs-website.vercel.app/)
 
+<p float="left">
+  <img src="./assets/chordflow-ui.png" width="270" alt="ChordFlow plugin UI" />
+  <img src="./assets/dynamic-eq-ui.png" width="270" alt="ff360 Labs Dynamic EQ UI" />
+  <img src="./assets/apothecary-game.png" width="270" alt="Dr. Pod's Apothecary game scene" />
+</p>
+
+*ChordFlow (hybrid Blender + JUCE UI) · ff360 Labs Dynamic EQ · Dr. Pod's Apothecary game (Unity)*
+
 ---
 
 ### 🎛️ Audio & Game Dev
