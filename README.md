@@ -33,7 +33,7 @@ I'm transitioning from a background in engineering, music production, and 3D art
 - [**ff360_labs**](https://ff360-labs-website.vercel.app/) — creative technology studio site with an interactive WebGL hero and physics-based UI (Next.js, React Three Fiber, Matter.js). [Source →](https://github.com/jjohnson360/ff360_labs_website)
 - [**ff360 Music**](https://ff360-music-website.vercel.app/) — Next.js music/artist portfolio with embedded audio playback.
 - [**The Governor of Crunk**](https://goc-website-one.vercel.app/) — official artist site for a Southern hip-hop act, promoting a debut album slated for late 2026.
-- [**Dr. Pod's Apothecary & Sundries**](https://jjohnson360.github.io/dr-pods-website-v2/) — website for a real gift shop opening in Salisbury, NC.
+- [**Dr. Pod's Apothecary & Sundries**](https://jjohnson360.github.io/dr-pods-website-v2/) — website for a real gift shop opening in Salisbury, NC, where I'm co-owner and developer. Built the e-commerce storefront prototype (HTML, CSS, vanilla JS) and am developing an inventory sync engine on the Square and Shopify APIs.
 
 ### 🗺️ Planned
 
